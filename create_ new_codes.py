@@ -24,5 +24,5 @@ def create_code(product_name, product_suffix):
 
 
 
-create_code('PLAFONIERA MODO DIA 80CM AURIU','1')
+create_code('PROFIL ALUMINIU DE IMBINARE H136 - AVEENA 8MM AURIU-ROZE','2')
 

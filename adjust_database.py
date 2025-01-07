@@ -22,7 +22,7 @@ def change_name(product_code,name):
         json.dump(database,f)
 
 
-del_products('18743937')
-#change_name("29954944","SPOT LINIAR LED PE SINA 9650A 32,4W 120CM 3000K - TITAN MAGNETIC")
+#del_products('54750965')
+change_name("54745863","NOPTIERA AROLA")
 
 

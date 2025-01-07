@@ -13,5 +13,5 @@ def check_name(name):
             print(i)
             print(v)
 
-check_name('MODO')
+check_name('H136')
 
