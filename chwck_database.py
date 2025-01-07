@@ -13,5 +13,5 @@ def check_name(name):
             print(i)
             print(v)
 
-check_name('CARAMIDA')
+check_name('C5')
 
