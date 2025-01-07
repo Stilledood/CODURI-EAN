@@ -24,5 +24,5 @@ def create_code(product_name, product_suffix):
 
 
 
-create_code('PROFIL ALUMINIU DE IMBINARE H136 - AVEENA 8MM AURIU-ROZE','2')
+create_code('PANOU DECORATIV ATOS TIP CARAMIDA 60 x 120 CM ALB','8')
 
