@@ -22,7 +22,7 @@ def change_name(product_code,name):
         json.dump(database,f)
 
 
-del_products('81598179')
+del_products('52693897')
 #change_name("54745863","NOPTIERA AROLA")
 
 

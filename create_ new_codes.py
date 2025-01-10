@@ -24,5 +24,5 @@ def create_code(product_name, product_suffix):
 
 
 
-create_code('PANOU DECORATIV ATOS TIP PIATRA 75 x 300 CM - MODEL CONTINUU C2A','8')
+#create_code('PAT VIENA 90X200 CM TAPITAT GRI FY350-2','5')
 
